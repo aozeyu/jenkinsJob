@@ -16,6 +16,6 @@ public class Application implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		logger.info("its my third logger");
+		logger.info("its my four logger");
 	}
 }
